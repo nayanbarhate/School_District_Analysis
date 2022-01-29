@@ -17,10 +17,10 @@ When assessing average scores and passing percentages among the 15 high schools 
 ![02_School_Summary](https://github.com/nayanbarhate/School_District_Analysis/blob/main/Resources/02_School_Summary.png)
 
 ### Top Five Performing Schools
-![03_Top_Five_Performing_Schools](https://github.com/nayanbarhate/School_District_Analysis/blob/main/Resources/03_Top_Five_Performing_Schools.png)
+![03_Top_Five_Performing_School](https://github.com/nayanbarhate/School_District_Analysis/blob/main/Resources/03_Top_Five_Performing_School.png)
 
 ### Bottom Five Performing Schools
-![04_Bottom_Five_Performing_Schools](https://github.com/nayanbarhate/School_District_Analysis/blob/main/Resources/04_Bottom_Five_Performing_Schools.png)
+![04_Bottom_Five_Performing_School](https://github.com/nayanbarhate/School_District_Analysis/blob/main/Resources/04_Bottom_Five_Performing_School.png)
 
 When assessing school summaries and performing schools, the score replacements did affect the ranking of the top five performing schools. Thomas High School ranked second place in the top five performing schools with a 91% overall passing. After replacing both math and reading scores, Thomas High School was taken out of the top five category since they now display a 65% overall passing. On the plus side, these changes did not place Thomas High School among the bottom five performing schools. Those ranks remained the same. Per the revised School Summary, Thomas High School now ranks 8th place among 15 high schools in the district.
 
@@ -28,7 +28,7 @@ When assessing school summaries and performing schools, the score replacements d
 ![05_Average_Math_Score_By_Grade](https://github.com/nayanbarhate/School_District_Analysis/blob/main/Resources/05_Average_Math_Score_By_Grade.png)
 
 ### Average Reading Scores by Grade & School
-![06_Average_Reading_Scores_by_Grade](https://github.com/nayanbarhate/School_District_Analysis/blob/main/Resources/06_Average_Reading_Score_By_Grade.png)
+![06_Average_Reading_Score_by_Grade](https://github.com/nayanbarhate/School_District_Analysis/blob/main/Resources/06_Average_Reading_Score_by_Grade.png)
 
 Another plus side from this data replacement is that it did not change the math and reading scores by grade. Granted, both the average math and reading score summaries were stratisfied by school and grade level. As shown above, the summary tables display "NaN" for ninth grade at Thomas High School whereas the remaining data remained intact.
 
