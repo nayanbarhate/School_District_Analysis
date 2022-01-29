@@ -25,7 +25,7 @@ When assessing average scores and passing percentages among the 15 high schools 
 When assessing school summaries and performing schools, the score replacements did affect the ranking of the top five performing schools. Thomas High School ranked second place in the top five performing schools with a 91% overall passing. After replacing both math and reading scores, Thomas High School was taken out of the top five category since they now display a 65% overall passing. On the plus side, these changes did not place Thomas High School among the bottom five performing schools. Those ranks remained the same. Per the revised School Summary, Thomas High School now ranks 8th place among 15 high schools in the district.
 
 ### Average Math Scores by Grade & School
-![05_Average_Math_Score_By_Grade](https://github.com/nayanbarhate/School_District_Analysis/blob/main/Resources/05_Average_Math_Score_By_Grade.png)
+![05_Average _Math_Score_By_Grade](https://github.com/nayanbarhate/School_District_Analysis/blob/main/Resources/05_Average _Math_Score_By_Grade.png)
 
 ### Average Reading Scores by Grade & School
 ![06_Average_Reading_Score_by_Grade](https://github.com/nayanbarhate/School_District_Analysis/blob/main/Resources/06_Average_Reading_Score_by_Grade.png)
@@ -43,7 +43,7 @@ When reviewing the School Spending summary, this data change did not impact the 
 When reviewing the School Size summary, removing the ninth grade scores did not affect the average math and reading scores, but it did affect the passing percentages for medium-sized schools (1,000-2,000). In this category, % passing math, % passing reading, and % overall passing dropped 6% each. Before the data change, the School Size summary showed that medium-sized school had a high performance (91% overall passing) compared to small (90% overall passing) and large schools (58% overall passing). Given the data change, medium size school are the second in performance (85% overall passing).
 
 ### School Type Summary
-![09_School Type Summary](https://github.com/nayanbarhate/School_District_Analysis/blob/main/Resources/09_School_Type_Summary.png)
+![09_School type Summary](https://github.com/nayanbarhate/School_District_Analysis/blob/main/Resources/09_School_type_Summary.png)
 
 In reviewing the last summary on School Types, this data change also affected the passing percentages that compared charter and district schools. Fortunately, it did not affect the average scores for these two school types. Removing the scores resulted in a reduction in charter school's passing percentages. Before the data change, charter schools had very high passing percentages: 94% passing math, 97% passing reading, 90% overall passing. After the data change, charter schools now have a 90% passing math, 93% passing reading, 87% overall passing. On the plus side, these rates are still far superior when compared to district schools.
 
